@@ -3,10 +3,8 @@ Input Parameters
 2.35 hours #half_life_A
 11.05 hours #half_life_B
 stable #half_life_C
-
 100 #initial condition for A
 0 #initial condition for B
 0 #initial condition for C
-
 60 hours #t final
 1 hours #delta t
