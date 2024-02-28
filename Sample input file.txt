@@ -7,4 +7,4 @@ stable #half_life_C
 0 #initial condition for B
 0 #initial condition for C
 60 hours #t final
-1 hours #delta t
+.75 hours #delta t
