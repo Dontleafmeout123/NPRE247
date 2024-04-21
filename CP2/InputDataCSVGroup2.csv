@@ -1,0 +1,8 @@
+Homogenous UO2,,,
+Group,absorption,fission,chi
+1,0.0092,0.0046,1
+2,0.0932,0.1139,0
+Scattering XSs,From (col),,
+To (row),1,2,
+1,1,0,
+2,0.0202,2,
